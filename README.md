@@ -10,20 +10,16 @@ This project aims to address the lack of broad support and intervention for clim
 The step-by-step instructions on how to use the mobile application to play the vocabulary quiz are as follows:
 
 1. Launch the Application: Open the mobile application on your device. The mobile application is available for both Android and IOS with the help of Expo Go.
-   ![1](https://github.com/Hemanth-Dupati/Mobile-Application-on-Climate-Education/assets/156629487/68173012-7530-477b-b77c-b8413304aaea)
-
-3. Login: If you want to Login, enter your name in the provided TextInput field and press the "Login" button.
-4. Navigate to Vocabulary Quiz: After logging in, you'll be presented with different game options. Tap on the "Vocabulary Quiz" button to select this game.
-5. Answer Questions: You'll now see the first question of the vocabulary quiz along with multiple-choice options. Read the question carefully and tap on the option you believe is correct.
-6. Submit Your Answer: After selecting an answer, tap the "Submit" button to submit your choice.
-7. Feedback: If your answer is correct, you'll receive positive feedback. If it's incorrect, you'll see a different visual cue indicating your choice was wrong.
+2. Login: If you want to Login, enter your name in the provided TextInput field and press the "Login" button.
+3. Navigate to Vocabulary Quiz: After logging in, you'll be presented with different game options. Tap on the "Vocabulary Quiz" button to select this game.
+4. Answer Questions: You'll now see the first question of the vocabulary quiz along with multiple-choice options. Read the question carefully and tap on the option you believe is correct.
+5. Submit Your Answer: After selecting an answer, tap the "Submit" button to submit your choice.
+6. Feedback: If your answer is correct, you'll receive positive feedback. If it's incorrect, you'll see a different visual cue indicating your choice was wrong.
 
 Repeat Steps 4-6: Continue answering questions by selecting options and submitting your answers until you've completed all the questions in the quiz.
 
 7. View Your Score: After completing the quiz, you'll see your vocabulary score displayed on the screen.
-
 8. Navigate Back: If you wish to play another game or return to the main menu, tap the "Back" button.
-
 9. Logout: When you're finished using the application, tap the "Logout" button to log out of your account and exit the app.
 
 
